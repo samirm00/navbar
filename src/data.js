@@ -33,6 +33,11 @@ const icons = [
         iconText: '<i class="fab fa-twitter"></i>',
     },
     {
+        id: 3,
+        href: 'https://www.twitter.com',
+        iconText: '<i class="fab fa-behance"></i>',
+    },
+    {
         id: 4,
         href: 'https://www.linkedin.com',
         iconText: '<i class="fab fa-linkedin"></i>',
