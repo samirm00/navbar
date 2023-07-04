@@ -1,5 +1,6 @@
 // Import listeners
 import './listeners/toggleLinksListener.js';
+
 import data from './data.js';
 import createLink from './components/createLink.js';
 import createIcon from './components/createIcon.js';

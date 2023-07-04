@@ -2,22 +2,22 @@ const links = [
     {
         id: 1,
         text: 'home',
-        href: 'index.html',
+        href: '#',
     },
     {
         id: 2,
         text: 'about',
-        href: 'about.html',
+        href: '#',
     },
     {
         id: 3,
         text: 'projects',
-        href: 'projects.html',
+        href: '#',
     },
     {
         id: 4,
         text: 'contact',
-        href: 'contact.html',
+        href: '#',
     },
 ];
 
@@ -31,11 +31,6 @@ const icons = [
         id: 2,
         href: 'https://www.twitter.com',
         iconText: '<i class="fab fa-twitter"></i>',
-    },
-    {
-        id: 3,
-        href: 'https://www.behance.com',
-        iconText: '<i class="fab fa-behance"></i>',
     },
     {
         id: 4,
@@ -55,4 +50,3 @@ const data = {
 };
 
 export default data;
-
